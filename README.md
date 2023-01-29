@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi everyone! I'm Michael, welcome to my GitHub page!
 
-<!--
-**mixach333/mixach333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+Languages:
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/kotlin-1C2149?style=for-the-badge&logo=kotlin&logoColor=orange"/> <img src="https://img.shields.io/badge/java-1C2149?style=for-the-badge&logo=CoffeeScript&logoColor=4574e0"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+Technologies/libraries:
+
+<img src="https://img.shields.io/badge/livedata-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/MVVM-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/NavComponent-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/View-Binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/data-binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Kotlin Coroutines-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Room-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Retrofit-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/coil-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Use Cases-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Solid-clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+
+
+
