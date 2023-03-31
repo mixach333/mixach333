@@ -8,7 +8,14 @@ Languages:
 ## 
 Technologies/libraries:
 
-<img src="https://img.shields.io/badge/livedata-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/MVVM-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/NavComponent-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/View-Binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/data-binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Kotlin Coroutines-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Room-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Retrofit-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/coil-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Use Cases-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Solid-clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/livedata-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/MVVM-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/NavComponent-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/View-Binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/data-binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  
+
+<img src="https://img.shields.io/badge/Kotlin Coroutines-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Room-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Retrofit-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/coil-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Use Cases-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Solid-clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+
+<img src="https://img.shields.io/badge/Custom View-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/View Animations-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/Notifications-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/Firebase-1C2149?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
+
+
+          
 
 
 ##
