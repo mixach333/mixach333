@@ -28,5 +28,5 @@ Courses/Study
 ##
 Contact me:
 
-[<img src="https://img.shields.io/badge/telegram-1C2149?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/Mix333)  [<img src="https://img.shields.io/badge/whatsapp-1C2149?style=for-the-badge&logo=whatsapp&logoColor=5D366"/>](https://api.whatsapp.com/send?phone=380632295961)
+[<img src="https://img.shields.io/badge/telegram-1C2149?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/Mix333)  [<img src="https://img.shields.io/badge/whatsapp-1C2149?style=for-the-badge&logo=whatsapp&logoColor=5D366"/>](https://api.whatsapp.com/send?phone=48571797599)
 
