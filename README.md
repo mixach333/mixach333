@@ -9,13 +9,13 @@ Languages:
 Stack:
 
 <img src="https://img.shields.io/badge/Flow_LiveData-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>
-<img src="https://img.shields.io/badge/MVVM_MVI_MVP-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Fragments_Compose_Custom-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Dagger_Hilt_Koin-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Coroutines_RxJava_And_Legacy-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/MVVM_MVI_MVP_RIBs-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Fragments_Compose_Custom-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Dagger_Hilt_Koin-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Coroutines_RxJava_And_Legacy-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  
 
 <img src="https://img.shields.io/badge/Coil_Picasso_Glide-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
 <img src="https://img.shields.io/badge/Room_Realm_Mongo_SQLite-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
 <img src="https://img.shields.io/badge/REST_GRAPHQL_SOCKET-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
 <img src="https://img.shields.io/badge/KMP-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
-<img src="https://img.shields.io/badge/Clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/Clean And Onion Architectures-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
 <img src="https://img.shields.io/badge/SOLID_DRY_KISS_GRASP-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>
 <img src="https://img.shields.io/badge/TDD_JUnit_Mockito_Espresso-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
 <img src="https://img.shields.io/badge/Firebase_Crashlytics_Notifications_Auth_Analytics-1C2149?style=for-the-badge&logo=firebase&logoColor=ffca28"/> 
