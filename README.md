@@ -6,17 +6,29 @@ Languages:
 <img src="https://img.shields.io/badge/kotlin-1C2149?style=for-the-badge&logo=kotlin&logoColor=orange"/> <img src="https://img.shields.io/badge/java-1C2149?style=for-the-badge&logo=CoffeeScript&logoColor=4574e0"/>
 
 ## 
-Technologies/libraries:
+Stack:
 
-<img src="https://img.shields.io/badge/livedata-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/MVVM-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/NavComponent-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/View-Binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/data-binding-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/Flow_LiveData-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>
+<img src="https://img.shields.io/badge/MVVM_MVI_MVP-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Fragments_Compose_Custom-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Dagger_Hilt_Koin-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  <img src="https://img.shields.io/badge/Coroutines_RxJava_And_Legacy-1C2149?style=for-the-badge&logo=google&logoColor=blue"/>  
 
-<img src="https://img.shields.io/badge/Kotlin Coroutines-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Room-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Retrofit-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/coil-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Use Cases-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  <img src="https://img.shields.io/badge/Solid-clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/Coil_Picasso_Glide-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Room_Realm_Mongo_SQLite-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/REST_GRAPHQL_SOCKET-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/KMP-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Clean Architecture-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/SOLID_DRY_KISS_GRASP-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/>
+<img src="https://img.shields.io/badge/TDD_JUnit_Mockito_Espresso-1C2149?style=for-the-badge&logo=kotlin&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Firebase_Crashlytics_Notifications_Auth_Analytics-1C2149?style=for-the-badge&logo=firebase&logoColor=ffca28"/> 
+<img src="https://img.shields.io/badge/GIT_CI|CD_GooglePlay-1C2149?style=for-the-badge&logo=google&logoColor=ffca28"/> 
 
-<img src="https://img.shields.io/badge/Custom View-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/View Animations-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/Notifications-1C2149?style=for-the-badge&logo=android&logoColor=3dd784"/>   <img src="https://img.shields.io/badge/Firebase-1C2149?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
-
-
-          
-
+Skills:
+Ability to lead team, code review and interviewing
+Technical guidelines and strategy planing, code styling
+Ease of learning new technologies
+Reverse engineering
+Ecnryption
+Local Network Device Synchronizations
+Java to Kotlin migrations, project migrations
 
 ##
 Courses/Study
